@@ -25,6 +25,11 @@ Look at the release section on the right.
 
 ## Showroom
 
+Three applications:
+- Visual Studio
+- File Explorer
+- Chrome
+
 ![Demo](/md_resources/presentation.gif?raw=true)
 
 *note that double-click on the tray icon 
