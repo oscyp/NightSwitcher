@@ -46,6 +46,6 @@ Doge: D69QVjA9oJgTqcQjpWJ2us9uy35yUQkTGp
 #### Contribution
 
 Thanks to:
--  <a href="https://www.flaticon.com/free-icons/moon" title="moon icons">Moon icons created by Freepik - Flaticon</a> for icons
+- [Moon icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/moon) for icons and adjusting them by @PG
 - folks from [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) 
 - [Syncfusion](https://www.syncfusion.com/) for community license
