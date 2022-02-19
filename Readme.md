@@ -39,7 +39,9 @@ Three applications:
 
 BTC: bc1q8apw95kaejpathtvjzukeex4gdn87lznnv2yve
 
-ETH:  0xc1F0bF33a278c1d8AeC86192848152471711bD0a 
+ETH:  0xc1F0bF33a278c1d8AeC86192848152471711bD0a
+
+Doge: D69QVjA9oJgTqcQjpWJ2us9uy35yUQkTGp
 
 #### Contribution
 
