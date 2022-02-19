@@ -49,3 +49,4 @@ Thanks to:
 - [Moon icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/moon) for icons and adjusting them by @PG
 - folks from [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) 
 - [Syncfusion](https://www.syncfusion.com/) for community license
+- [hardcodet](https://github.com/hardcodet/wpf-notifyicon) for speeding up whole work
