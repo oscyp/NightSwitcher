@@ -1,4 +1,4 @@
-# NightSwitcher
+# <img src="./md_resources/crescent-moon_white.png" width=4%>/<img src="./md_resources/crescent-moon_yellow.png" width=4%> NightSwitcher 
 
 The purpose of this tray app is to cover missing Windows features in order to quickly change from light to dark theme and vice versa. That would affect all application that have the option to use the system theme enabled.
 
