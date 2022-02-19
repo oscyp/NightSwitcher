@@ -38,5 +38,7 @@ ETH:  0xc1F0bF33a278c1d8AeC86192848152471711bD0a
 
 #### Contribution
 
-Thanks to <a href="https://www.flaticon.com/free-icons/moon" title="moon icons">Moon icons created by Freepik - Flaticon</a> for icons.
-And folks from [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) with [Syncfusion](https://www.syncfusion.com/) for community license.
+Thanks to:
+-  <a href="https://www.flaticon.com/free-icons/moon" title="moon icons">Moon icons created by Freepik - Flaticon</a> for icons
+- folks from [MaterialDesignInXAML](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) 
+- [Syncfusion](https://www.syncfusion.com/) for community license
